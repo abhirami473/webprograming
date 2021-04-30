@@ -1,0 +1,53 @@
+<html>
+<style>
+table,th,td{
+ border:1px solid black;
+ border-collapse:collapse;
+}
+th,td{
+padding:15px;
+}
+
+</style>
+</head>
+<body>
+<table style="width:100%">
+<tr>
+<th>Course Number</th>
+<th>Course Title</th>
+<th>Semester Taken</th>
+</tr>
+<tr>
+<th colspan="3"><b>For credit</b></th>
+</tr>
+<tr bgcolor="lightgrey">
+<td><font color="blue">6.813</font></td>
+<td><font-color="blue">User Interface Design</td>
+<td><font color="blue">Spring 2014</td>
+</tr>
+<tr>
+<td><font color="blue">6.034</td>
+<td>Artificial Intelligence</td>
+<td>Fall 2013</td>
+</tr>
+<tr bgcolor="lightgrey">
+<td><font color="blue">6.006</td>
+<td>Introduction to Algorithms</td>
+<td>fall 2013</td>
+</tr>
+<tr>
+<th colspan="3">Listener</th>
+</tr>
+<tr bgcolor="lightgrey">
+<td><font color="blue">6.867</td>
+<td>Machine Learning</td>
+<td>Fall 2013</td>
+</tr>
+<tr>
+<td><font color="blue">6.830</td>
+<td>Database system</td>
+<td>Fall 2012</td>
+</tr>
+</table>
+</body>
+</html>
